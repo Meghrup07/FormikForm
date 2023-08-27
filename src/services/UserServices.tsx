@@ -23,3 +23,4 @@ export const editUser = async (id: any, user: any) => {
 export const deleteUser = async (id: any) => {
     return await axios.delete(`${apiUrl}/${id}`)
 }
+// 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
